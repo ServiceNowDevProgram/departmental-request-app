@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_fulfillment_group" table="x_535856_dept_re_0_1633115825839">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>edge_encryption_enabled=true,import_attribute_name=Fulfillment group</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Fulfillment group</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_fulfillment_group</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_535856_dept_re_0_1633115825839</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:17:06</sys_created_on>
+        <sys_id>049ad23b87363010b05b20af8bbb353a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fulfillment group</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_update_name>sys_dictionary_x_535856_dept_re_0_1633115825839_u_fulfillment_group</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:17:06</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</application>
+        <file_path/>
+        <instance_id>ff0d9886dbebe050ad8dd7c8f49619d8</instance_id>
+        <instance_name>dev112105</instance_name>
+        <name>sys_dictionary_x_535856_dept_re_0_1633115825839_u_fulfillment_group</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_fulfillment_group" table="x_535856_dept_re_0_1633115825839"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=Fulfillment group</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Fulfillment group</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_fulfillment_group</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_535856_dept_re_0_1633115825839</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-01 19:17:06</sys_created_on><sys_id>049ad23b87363010b05b20af8bbb353a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Fulfillment group</sys_name><sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package><sys_policy/><sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope><sys_update_name>sys_dictionary_x_535856_dept_re_0_1633115825839_u_fulfillment_group</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 19:17:06</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-85470015</payload_hash>
+        <record_name>Dept Re 0 1633115825839.Fulfillment group</record_name>
+        <reverted_from/>
+        <source>d4f99af787363010b05b20af8bbb3590</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:17:06</sys_created_on>
+        <sys_id>0c9ad23b87363010b05b20af8bbb354c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3d49eb280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:17:06</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>849ad23bbf363010f67661d91ba1234c</update_guid>
+        <update_guid_history>849ad23bbf363010f67661d91ba1234c:-85470015</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 19:18:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>45db3c59f561415a99c6feb76f19b4a4</sys_id>
+        <sys_metadata>049ad23b87363010b05b20af8bbb353a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fulfillment group</sys_name>
+        <sys_package display_value="Dept Request" source="x_535856_dept_re_0">9cf99af787363010b05b20af8bbb358d</sys_package>
+        <sys_parent display_value="">409ad23b87363010b05b20af8bbb3532</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">9cf99af787363010b05b20af8bbb358d</sys_scope>
+        <sys_scope_delete display_value="">0e23f0f4b2cc496082a4078231566651</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_535856_dept_re_0_1633115825839_u_fulfillment_group</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_535856_dept_re_0_1633115825839_u_fulfillment_group">0c9ad23b87363010b05b20af8bbb354c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 19:18:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

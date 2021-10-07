@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Type" max_length="40" name="x_535856_dept_re_0_type" sizeclass="3" type="collection">
+        <element attributes="encode_utf8=false" label="Approval group" max_length="32" name="approval_group" reference="sys_user_group" type="reference"/>
+        <element attributes="encode_utf8=false" label="Fulfillment group" max_length="32" name="fulfillment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="100" name="name" type="string"/>
+        <index name="index">
+            <element name="fulfillment_group"/>
+        </index>
+        <index name="index2">
+            <element name="approval_group"/>
+        </index>
+    </element>
+</database>
